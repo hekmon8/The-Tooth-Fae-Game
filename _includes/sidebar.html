@@ -1,0 +1,75 @@
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Quick Navigation</h5>
+
+    <!-- 游戏列表 -->
+    {% if page.url contains '/games/' %}
+      <h6 class="mt-3 mb-2 text-muted">All Games</h6>
+      <ul class="list-unstyled">
+        <li><a href="{{ site.baseurl }}/games/tooth-fae/" class="text-decoration-none">The Tooth Fae</a></li>
+        <li><a href="{{ site.baseurl }}/games/fear-me/" class="text-decoration-none">Fear Me</a></li>
+      </ul>
+    {% endif %}
+
+    <!-- 分类列表 -->
+    <h6 class="mt-3 mb-2 text-muted">Categories</h6>
+    <ul class="list-unstyled">
+      <li><a href="{{ site.baseurl }}/categories/horror-games/" class="text-decoration-none">
+        <i class="bi bi-ghost text-danger"></i> Horror Games
+      </a></li>
+      <li><a href="{{ site.baseurl }}/categories/dating-sims/" class="text-decoration-none">
+        <i class="bi bi-heart text-danger"></i> Dating Simulators
+      </a></li>
+      <li><a href="{{ site.baseurl }}/categories/browser-games/" class="text-decoration-none">
+        <i class="bi bi-globe text-primary"></i> Browser Games
+      </a></li>
+      <li><a href="{{ site.baseurl }}/categories/pixel-art-games/" class="text-decoration-none">
+        <i class="bi bi-grid text-success"></i> Pixel Art Games
+      </a></li>
+    </ul>
+
+    <!-- 热门指南 -->
+    <h6 class="mt-3 mb-2 text-muted">Popular Guides</h6>
+    <ul class="list-unstyled">
+      <li><a href="{{ site.baseurl }}/guides/choosing-your-first-horror-game/" class="text-decoration-none small">
+        How to Choose Your First Horror Game
+      </a></li>
+      <li><a href="{{ site.baseurl }}/guides/best-free-browser-games-2025/" class="text-decoration-none small">
+        Best Free Browser Games 2025
+      </a></li>
+      <li><a href="{{ site.baseurl }}/guides/indie-game-recommendations/" class="text-decoration-none small">
+        Indie Game Recommendations
+      </a></li>
+    </ul>
+
+    <!-- 外部链接 -->
+    <h6 class="mt-3 mb-2 text-muted">External Links</h6>
+    <ul class="list-unstyled">
+      <li>
+        <a href="https://playthetoothfae.com" class="text-decoration-none small" target="_blank" rel="noopener">
+          <i class="bi bi-play-circle"></i> Play Featured Games
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/hekmon/awesome-indie-games-collection" class="text-decoration-none small" target="_blank" rel="noopener">
+          <i class="bi bi-github"></i> GitHub Repository
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<!-- 搜索框（可选） -->
+{% if page.search %}
+<div class="card mt-3">
+  <div class="card-body">
+    <h5 class="card-title">Search</h5>
+    <div class="input-group">
+      <input type="text" class="form-control" placeholder="Search games..." id="search-input">
+      <button class="btn btn-outline-secondary" type="button" id="search-btn">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </div>
+</div>
+{% endif %}

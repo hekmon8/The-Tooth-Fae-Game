@@ -1,0 +1,193 @@
+---
+layout: base
+fullwidth: true
+---
+
+<div id="structured-data" style="display: none;">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoGame",
+    "name": "{{ page.game.title | escape }}",
+    "description": "{{ page.game.description | strip_html | truncate: 500 | escape }}",
+    "url": "{{ page.url | absolute_url }}",
+    {% if page.game.image %}
+    "image": "{{ page.game.image | absolute_url }}",
+    {% endif %}
+    {% if page.game.developer %}
+    "author": {
+      "@type": "Organization",
+      "name": "{{ page.game.developer | escape }}"
+    },
+    {% endif %}
+    {% if page.game.publisher %}
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ page.game.publisher | escape }}"
+    },
+    {% endif %}
+    "genre": [
+      {% for genre in page.game.genres %}
+      "{{ genre | escape }}"{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ],
+    "gamePlatform": [
+      {% for platform in page.game.platforms %}
+      "{{ platform | escape }}"{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ],
+    {% if page.game.releaseDate %}
+    "datePublished": "{{ page.game.releaseDate }}",
+    {% endif %}
+    {% if page.game.ageRating %}
+    "contentRating": "{{ page.game.ageRating }}",
+    {% endif %}
+    "inLanguage": "{{ page.lang | default: 'en' }}",
+    "isAccessibleForFree": true,
+    {% if page.playUrl %}
+    "playMode": "SinglePlayer",
+    "offers": {
+      "@type": "Offer",
+      "url": "{{ page.playUrl | absolute_url }}",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    {% endif %}
+    {% if page.rating %}
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "{{ page.rating }}",
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    {% endif %}
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ page.url | absolute_url }}"
+    }
+  }
+  </script>
+</div>
+
+<div class="row">
+  <!-- 左侧游戏信息 -->
+  <aside class="col-lg-4 mb-4">
+    <div class="card sticky-top" style="top: 6rem;">
+      <div class="card-body">
+        <!-- 游戏封面 -->
+        {% if page.game.image %}
+          <img src="{{ page.game.image | absolute_url }}" alt="{{ page.game.title }}" class="img-fluid rounded mb-3">
+        {% endif %}
+
+        <!-- 游戏标题 -->
+        <h1 class="h3 mb-3">{{ page.game.title }}</h1>
+
+        <!-- 评分 -->
+        {% if page.game.rating %}
+          <div class="mb-3">
+            <span class="badge bg-warning text-dark fs-6">
+              <i class="bi bi-star-fill"></i> {{ page.game.rating }}/5
+            </span>
+          </div>
+        {% endif %}
+
+        <!-- 描述 -->
+        <div class="mb-3">
+          <p class="text-muted">{{ page.game.description }}</p>
+        </div>
+
+        <!-- 游戏信息表格 -->
+        {% if page.game.genres or page.game.platforms or page.game.developer %}
+          <table class="table table-sm">
+            {% if page.game.developer %}
+              <tr>
+                <td><strong>Developer:</strong></td>
+                <td>{{ page.game.developer }}</td>
+              </tr>
+            {% endif %}
+            {% if page.game.publisher %}
+              <tr>
+                <td><strong>Publisher:</strong></td>
+                <td>{{ page.game.publisher }}</td>
+              </tr>
+            {% endif %}
+            {% if page.game.genres %}
+              <tr>
+                <td><strong>Genres:</strong></td>
+                <td>
+                  {% for genre in page.game.genres %}
+                    <span class="badge bg-secondary">{{ genre }}</span>
+                  {% endfor %}
+                </td>
+              </tr>
+            {% endif %}
+            {% if page.game.platforms %}
+              <tr>
+                <td><strong>Platforms:</strong></td>
+                <td>
+                  {% for platform in page.game.platforms %}
+                    <span class="badge bg-info text-dark">{{ platform }}</span>
+                  {% endfor %}
+                </td>
+              </tr>
+            {% endif %}
+            {% if page.game.releaseDate %}
+              <tr>
+                <td><strong>Release Date:</strong></td>
+                <td>{{ page.game.releaseDate }}</td>
+              </tr>
+            {% endif %}
+            {% if page.game.ageRating %}
+              <tr>
+                <td><strong>Age Rating:</strong></td>
+                <td>{{ page.game.ageRating }}</td>
+              </tr>
+            {% endif %}
+          </table>
+        {% endif %}
+
+        <!-- 操作按钮 -->
+        <div class="d-grid gap-2">
+          {% if page.playUrl %}
+            <a href="{{ page.playUrl | absolute_url }}" class="btn btn-primary btn-lg" target="_blank" rel="noopener">
+              <i class="bi bi-play-circle"></i> Play Now
+            </a>
+          {% endif %}
+          {% if page.downloadUrl %}
+            <a href="{{ page.downloadUrl | absolute_url }}" class="btn btn-outline-secondary btn-lg">
+              <i class="bi bi-download"></i> Download
+            </a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </aside>
+
+  <!-- 右侧内容 -->
+  <div class="col-lg-8">
+    {{ content }}
+  </div>
+</div>
+
+<!-- 相关文章 -->
+{% if page.categories %}
+  {% assign related_posts = site.categories[page.categories[0]] | where_exp: "item", "item.url != page.url" | limit: 3 %}
+  {% if related_posts.size > 0 %}
+    <div class="mt-5 pt-4 border-top">
+      <h4>Related Articles</h4>
+      <div class="row">
+        {% for post in related_posts %}
+          <div class="col-md-4 mb-3">
+            <div class="card h-100">
+              <div class="card-body">
+                <h6 class="card-title">{{ post.title }}</h6>
+                <p class="card-text small text-muted">{{ post.excerpt | truncate: 100 }}</p>
+                <a href="{{ post.url }}" class="btn btn-sm btn-outline-primary">Read More</a>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %}
+{% endif %}

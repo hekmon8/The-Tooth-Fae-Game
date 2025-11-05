@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="index, follow">
+  <meta name="language" content="{{ page.lang | default: site.lang }}">
+  <meta name="author" content="{{ site.author.name }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="alternate" hreflang="{{ page.lang | default: site.lang }}" href="{{ page.url | absolute_url }}">
+  {% if site.data.languages %}
+    {% for lang in site.data.languages %}
+      {% assign lang_baseurl = site.baseurl %}
+      <link rel="alternate" hreflang="{{ lang }}" href="{{ lang_baseurl | absolute_url }}{{ lang }}/">
+    {% endfor %}
+  {% endif %}
+
+  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description | strip_html | strip_newlines | truncate: 160 }}">
+  <meta name="keywords" content="{{ page.keywords | default: site.keywords | join: ', ' }}">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="{% if page.type %}{{ page.type }}{% else %}website{% endif %}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title | escape }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{{ page.description | default: site.description | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:locale" content="{{ site.lang }}_{{ site.lang | slice: 0, 2 | upcase }}">
+  {% if page.image %}
+    <meta property="og:image" content="{{ page.image | absolute_url }}">
+  {% endif %}
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="{{ page.description | default: site.description | escape }}">
+  {% if page.image %}
+    <meta name="twitter:image" content="{{ page.image | absolute_url }}">
+  {% endif %}
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | relative_url }}">
+  <link rel="icon" type="image/png" href="{{ '/favicon.png' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.css">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+  <!-- RSS Feed -->
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | absolute_url }}">
+
+  <!-- Structured Data (JSON-LD) - Customizable per page -->
+  {{ content | where: "id", "structured-data" | first }}
+</head>
+
+<body>
+  <!-- 导航栏 -->
+  {% include navbar.html %}
+
+  <!-- 主要内容 -->
+  <main class="container my-4">
+    {% if page.breadcrumb %}
+      {% include breadcrumbs.html %}
+    {% endif %}
+
+    <div class="row">
+      <!-- 侧边栏 -->
+      <aside class="col-lg-3 mb-4">
+        {% if page.nav %}
+          {% include sidebar.html %}
+        {% endif %}
+      </aside>
+
+      <!-- 主体内容 -->
+      <article class="col-lg-{% if page.fullwidth %}12{% else %}9{% endif %}">
+        <div class="content">
+          {{ content }}
+        </div>
+
+        <!-- 标签和分类 -->
+        {% if page.tags or page.categories %}
+          <div class="mt-4 pt-4 border-top">
+            {% if page.categories %}
+              <p class="text-muted">
+                <i class="bi bi-folder"></i>
+                {% for category in page.categories %}
+                  <a href="/categories/{{ category | slugify }}/" class="badge bg-secondary">{{ category }}</a>
+                {% endfor %}
+              </p>
+            {% endif %}
+            {% if page.tags %}
+              <p class="text-muted">
+                <i class="bi bi-tags"></i>
+                {% for tag in page.tags %}
+                  <a href="/tags/{{ tag | slugify }}/" class="badge bg-light text-dark">{{ tag }}</a>
+                {% endfor %}
+              </p>
+            {% endif %}
+          </div>
+        {% endif %}
+
+        <!-- 相关文章 -->
+        {% if page.categories %}
+          {% assign related_posts = site.categories[page.categories[0]] | where_exp: "item", "item.url != page.url" | limit: 5 %}
+          {% if related_posts.size > 0 %}
+            <div class="mt-4 pt-4 border-top">
+              <h5>Related Articles</h5>
+              <ul>
+                {% for post in related_posts %}
+                  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+          {% endif %}
+        {% endif %}
+      </article>
+    </div>
+  </main>
+
+  <!-- 页脚 -->
+  {% include footer.html %}
+
+  <!-- 返回顶部 -->
+  <button id="back-to-top" class="btn btn-primary position-fixed bottom-0 end-0 m-4 d-none">
+    <i class="bi bi-arrow-up"></i>
+  </button>
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+
+  <!-- Google Analytics (if needed) -->
+  {% if site.google_analytics %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.google_analytics }}');
+  </script>
+  {% endif %}
+</body>
+</html>

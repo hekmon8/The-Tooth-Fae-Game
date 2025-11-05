@@ -1,0 +1,149 @@
+# Jekyll Configuration for Awesome Indie Games Collection
+# 自动将Markdown文档转换为HTML并优化SEO
+
+# 基础站点配置
+title: "Awesome Indie Games Collection"
+email: "contact@playthetoothfae.com"
+description: >
+  A curated collection of detailed documentation for exceptional indie games.
+  Discover the best indie games with comprehensive guides, strategies, and reviews.
+  Free browser games, horror games, dating sims, and more.
+
+# URL配置
+url: "https://hekmon.github.io"
+baseurl: "/awesome-indie-games-collection"
+permalink: /:slug/
+
+# 作者信息
+author:
+  name: "PlayTheToothFae"
+  url: "https://playthetoothfae.com"
+
+# 多语言配置
+languages: ["en", "zh-CN"]
+default_language: "en"
+exclude_from_localizations: ["assets", "images", "scripts"]
+
+# Jekyll设置
+timezone: "Asia/Shanghai"
+future: true
+
+# Markdown配置
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  entity_output: as_input
+
+# 插件配置
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-multiple-languages-plugin
+  - jekyll-sitemap
+  - jemoji
+
+# Jekyll SEO Tag配置
+jekyll-seo-tag:
+  type: "WebSite"
+  name: "Awesome Indie Games Collection"
+  description: "Curated collection of indie games documentation with detailed guides"
+  url: "https://hekmon.github.io/awesome-indie-games-collection"
+
+# RSS Feed配置
+feed:
+  description: "Latest indie game guides and documentation"
+  feed_path: "/feed.xml"
+
+# 远程主题配置
+remote_theme: "pmarsceill/just-the-docs@v0.7.3"
+
+# 导航配置
+nav_external_links:
+  - title: "Play Online"
+    url: "https://playthetoothfae.com"
+    hide_icon: true
+  - title: "GitHub"
+    url: "https://github.com/hekmon/awesome-indie-games-collection"
+    hide_icon: true
+
+# 侧边栏配置
+sidebar:
+  nav: "main"
+
+# 页面列表配置
+collections:
+  games:
+    output: true
+    permalink: /games/:slug/
+  categories:
+    output: true
+    permalink: /categories/:slug/
+  guides:
+    output: true
+    permalink: /guides/:slug/
+
+# 排除文件
+exclude:
+  - "README.md"
+  - "CONTRIBUTING.md"
+  - ".gitignore"
+  - ".github"
+  - ".git"
+  - ".serena"
+  - "test-reports"
+  - "package*.json"
+  - ".claude"
+  - "scripts"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "*.sh"
+  - "node_modules"
+  - ".DS_Store"
+  - ".env*"
+
+# Front Matter默认值
+defaults:
+  - scope:
+      path: "games"
+    values:
+      layout: "game"
+      seo:
+        type: "Article"
+  - scope:
+      path: "categories"
+    values:
+      layout: "category"
+  - scope:
+      path: "guides"
+    values:
+      layout: "guide"
+
+# Jekyll配置文件
+config_files:
+  - "_config.yml"
+  - "_config_dev.yml" # 开发环境配置
+
+# 分页配置（如果需要）
+# paginate: 10
+# paginate_path: "/page:num/"
+
+# 性能优化
+compress_html:
+  blanklines: true
+  comments: ["<!-- ", " -->"]
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot]
+  profiles: {}
+
+# 数学公式支持（可选）
+# mathjax: true
+
+# 图片配置
+image_dir: "/assets/images"
+sass:
+  style: compressed

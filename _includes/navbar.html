@@ -1,0 +1,84 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
+  <div class="container">
+    <!-- Logo/品牌 -->
+    <a class="navbar-brand fw-bold" href="{{ site.baseurl }}/">
+      <i class="bi bi-collection-play-fill me-2"></i>
+      {{ site.title }}
+    </a>
+
+    <!-- 移动端汉堡菜单 -->
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- 导航菜单 -->
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav me-auto">
+        <li class="nav-item">
+          <a class="nav-link {% if page.url == '/' %}active{% endif %}" href="{{ site.baseurl }}/">
+            <i class="bi bi-house"></i> Home
+          </a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+            <i class="bi bi-controller"></i> Games
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="{{ site.baseurl }}/games/tooth-fae/">
+              <i class="bi bi-ghost"></i> The Tooth Fae
+            </a></li>
+            <li><a class="dropdown-item" href="{{ site.baseurl }}/games/fear-me/">
+              <i class="bi bi-heart"></i> Fear Me
+            </a></li>
+          </ul>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+            <i class="bi bi-folder"></i> Categories
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="{{ site.baseurl }}/categories/horror-games/">
+              <i class="bi bi-ghost"></i> Horror Games
+            </a></li>
+            <li><a class="dropdown-item" href="{{ site.baseurl }}/categories/dating-sims/">
+              <i class="bi bi-heart"></i> Dating Simulators
+            </a></li>
+            <li><a class="dropdown-item" href="{{ site.baseurl }}/categories/browser-games/">
+              <i class="bi bi-globe"></i> Browser Games
+            </a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/guides/">
+            <i class="bi bi-book"></i> Guides
+          </a>
+        </li>
+      </ul>
+
+      <!-- 右侧菜单 -->
+      <ul class="navbar-nav">
+        <!-- 语言切换 -->
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+            <i class="bi bi-globe"></i> {{ site.lang | upcase }}
+          </a>
+          <ul class="dropdown-menu dropdown-menu-end">
+            <li><a class="dropdown-item" href="{{ site.baseurl | replace: '/zh-CN', '' }}{{ page.url }}">English</a></li>
+            <li><a class="dropdown-item" href="{{ site.baseurl }}{% unless site.lang == 'zh-CN' %}/zh-CN{% endunless %}{{ page.url }}">简体中文</a></li>
+          </ul>
+        </li>
+        <!-- 外部链接 -->
+        <li class="nav-item">
+          <a class="nav-link" href="https://playthetoothfae.com" target="_blank" rel="noopener">
+            <i class="bi bi-play-circle"></i> Play
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}" target="_blank" rel="noopener">
+            <i class="bi bi-github"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

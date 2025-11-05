@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Awesome Indie Games Collection - Indie Game Documentation Hub"
+description: "Discover the best indie games with comprehensive guides, strategies, and reviews. Free browser games, horror games, dating sims, and more."
+lang: en
+permalink: /
+---
+
 # Awesome Indie Games Collection
 
 > A curated collection of detailed documentation for exceptional indie games

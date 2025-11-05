@@ -1,0 +1,39 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://hekmon.github.io/awesome-indie-games-collection/sitemap.xml
+
+# 允许爬虫访问所有页面
+Allow: /games/
+Allow: /categories/
+Allow: /guides/
+Allow: /assets/
+
+# 隐藏文件和目录
+Disallow: /.git/
+Disallow: /.github/
+Disallow: /.serena/
+Disallow: /test-reports/
+Disallow: /scripts/
+Disallow: /.claude/
+Disallow: /node_modules/
+Disallow: /Gemfile
+Disallow: /Gemfile.lock
+Disallow: /package*.json
+
+# 爬虫延迟（可选）
+Crawl-delay: 1
+
+# 缓存指令
+# Cache: public, max-age=86400
+
+# 搜索引擎爬虫特定配置
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /

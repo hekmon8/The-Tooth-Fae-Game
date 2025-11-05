@@ -1,0 +1,105 @@
+name: Deploy Jekyll to GitHub Pages
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "**.md"
+      - "_config.yml"
+      - "_layouts/**"
+      - "_includes/**"
+      - "assets/**"
+  workflow_dispatch:
+  pull_request:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+          cache-version: 1
+
+      - name: Setup Pages
+        uses: actions/pages@v4
+
+      - name: Build
+        run: |
+          bundle install
+          bundle exec jekyll build --trace
+        env:
+          JEKYLL_ENV: production
+          JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    if: github.event_name != 'pull_request'
+
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/pages@v4
+
+  seo-check:
+    needs: build
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build cache
+        uses: actions/cache@v3
+        with:
+          path: ./_site
+          key: ${{ runner.os }}-jekyll-${{ hashFiles('**/*.md', '_config.yml') }}
+
+      - name: SEO validation
+        run: |
+          echo "# SEO Report - $(date)" > seo-report.txt
+          echo "Pages generated: $(find ./_site -name "*.html" | wc -l)" >> seo-report.txt
+
+          if [ -f ./_site/sitemap.xml ]; then
+            echo "✅ Sitemap found" >> seo-report.txt
+          else
+            echo "⚠️  Sitemap missing" >> seo-report.txt
+          fi
+
+          if [ -f ./_site/robots.txt ]; then
+            echo "✅ robots.txt found" >> seo-report.txt
+          else
+            echo "⚠️  robots.txt missing" >> seo-report.txt
+          fi
+
+          cat seo-report.txt
+
+      - name: Upload report
+        uses: actions/upload-artifact@v3
+        with:
+          name: seo-report
+          path: seo-report.txt
+          retention-days: 30

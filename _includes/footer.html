@@ -1,0 +1,97 @@
+<footer class="bg-dark text-light py-5 mt-5">
+  <div class="container">
+    <div class="row">
+      <!-- 站点信息 -->
+      <div class="col-md-4 mb-4">
+        <h5>{{ site.title }}</h5>
+        <p class="text-muted">{{ site.description }}</p>
+        <div class="social-links">
+          <a href="https://playthetoothfae.com" class="text-light me-3" target="_blank" rel="noopener">
+            <i class="bi bi-play-circle-fill fs-4"></i>
+          </a>
+          <a href="{{ site.url }}{{ site.baseurl }}" class="text-light me-3" target="_blank" rel="noopener">
+            <i class="bi bi-github fs-4"></i>
+          </a>
+        </div>
+      </div>
+
+      <!-- 快速链接 -->
+      <div class="col-md-2 col-6 mb-4">
+        <h6 class="text-uppercase">Quick Links</h6>
+        <ul class="list-unstyled">
+          <li><a href="{{ site.baseurl }}/" class="text-muted text-decoration-none">Home</a></li>
+          <li><a href="{{ site.baseurl }}/games/tooth-fae/" class="text-muted text-decoration-none">The Tooth Fae</a></li>
+          <li><a href="{{ site.baseurl }}/games/fear-me/" class="text-muted text-decoration-none">Fear Me</a></li>
+          <li><a href="{{ site.baseurl }}/guides/" class="text-muted text-decoration-none">Guides</a></li>
+        </ul>
+      </div>
+
+      <!-- 分类 -->
+      <div class="col-md-2 col-6 mb-4">
+        <h6 class="text-uppercase">Categories</h6>
+        <ul class="list-unstyled">
+          <li><a href="{{ site.baseurl }}/categories/horror-games/" class="text-muted text-decoration-none">Horror Games</a></li>
+          <li><a href="{{ site.baseurl }}/categories/dating-sims/" class="text-muted text-decoration-none">Dating Simulators</a></li>
+          <li><a href="{{ site.baseurl }}/categories/browser-games/" class="text-muted text-decoration-none">Browser Games</a></li>
+          <li><a href="{{ site.baseurl }}/categories/pixel-art-games/" class="text-muted text-decoration-none">Pixel Art Games</a></li>
+        </ul>
+      </div>
+
+      <!-- 资源 -->
+      <div class="col-md-2 col-6 mb-4">
+        <h6 class="text-uppercase">Resources</h6>
+        <ul class="list-unstyled">
+          <li><a href="{{ site.baseurl }}/guides/choosing-your-first-horror-game/" class="text-muted text-decoration-none">Getting Started</a></li>
+          <li><a href="{{ site.baseurl }}/guides/best-free-browser-games-2025/" class="text-muted text-decoration-none">Game Recommendations</a></li>
+          <li><a href="{{ site.baseurl }}/CONTRIBUTING.md" class="text-muted text-decoration-none">Contributing</a></li>
+          <li><a href="{{ site.baseurl }}/sitemap.xml" class="text-muted text-decoration-none">Sitemap</a></li>
+        </ul>
+      </div>
+
+      <!-- 联系信息 -->
+      <div class="col-md-2 col-6 mb-4">
+        <h6 class="text-uppercase">Connect</h6>
+        <ul class="list-unstyled">
+          <li>
+            <a href="mailto:{{ site.email }}" class="text-muted text-decoration-none">
+              <i class="bi bi-envelope"></i> {{ site.email }}
+            </a>
+          </li>
+          <li>
+            <a href="https://playthetoothfae.com" class="text-muted text-decoration-none" target="_blank" rel="noopener">
+              <i class="bi bi-globe"></i> Website
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <hr class="my-4">
+
+    <!-- 版权信息 -->
+    <div class="row">
+      <div class="col-md-6">
+        <p class="text-muted mb-0">
+          &copy; {{ 'now' | date: '%Y' }} {{ site.title }}. All rights reserved.
+        </p>
+      </div>
+      <div class="col-md-6 text-md-end">
+        <p class="text-muted mb-0">
+          Built with <i class="bi bi-heart-fill text-danger"></i> for indie game enthusiasts
+        </p>
+      </div>
+    </div>
+
+    <!-- SEO相关链接 -->
+    <div class="row mt-3">
+      <div class="col-12 text-center">
+        <small class="text-muted">
+          <a href="{{ site.baseurl }}/robots.txt" class="text-muted text-decoration-none me-3">robots.txt</a>
+          <a href="{{ site.baseurl }}/sitemap.xml" class="text-muted text-decoration-none me-3">sitemap.xml</a>
+          <a href="https://www.google.com/search?q=site:{{ site.url | remove: 'https://' }}{{ site.baseurl }}" class="text-muted text-decoration-none me-3">Google Index</a>
+          <a href="https://www.bing.com/webmasters?url={{ site.url | remove: 'https://' }}{{ site.baseurl }}" class="text-muted text-decoration-none">Bing Webmaster</a>
+        </small>
+      </div>
+    </div>
+  </div>
+</footer>
