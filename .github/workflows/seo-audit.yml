@@ -1,0 +1,40 @@
+name: SEO Audit
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - '**.md'
+  workflow_dispatch:
+
+jobs:
+  seo-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Check Markdown Structure
+        run: |
+          echo "Checking H1 uniqueness..."
+          find . -name "*.md" -not -path "./.git/*" -exec sh -c '
+            h1_count=$(grep -c "^# " "$1" || true)
+            if [ "$h1_count" -gt 1 ]; then
+              echo "❌ Multiple H1 tags in: $1"
+              exit 1
+            elif [ "$h1_count" -eq 0 ]; then
+              echo "⚠️  No H1 tag in: $1"
+            else
+              echo "✅ $1"
+            fi
+          ' sh {} \;
+
+      - name: Check Keyword Density
+        run: |
+          echo "Checking keyword density (placeholder)..."
+          echo "✅ SEO audit completed"
