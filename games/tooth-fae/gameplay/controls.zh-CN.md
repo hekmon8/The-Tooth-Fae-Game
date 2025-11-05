@@ -2,7 +2,7 @@
 
 ## 支持的输入设备
 
-The Tooth Fae 提供全面的输入支持，以确保所有玩家的可访问性。[掌握游戏操作](https://playthetoothfae.com/games/tooth-fae#controls) 使用你喜欢的方法——无论是键盘和鼠标、游戏手柄还是手柄。
+The Tooth Fae 提供全面的输入支持，以确保所有玩家的可访问性。[掌握游戏操作](https://playthetoothfae.com#how_to_play) 使用你喜欢的方法——无论是键盘和鼠标、游戏手柄还是手柄。
 
 ### 完整输入兼容性
 
@@ -40,7 +40,7 @@ X 和 Y 键提供对库存和游戏功能的快速访问。扳机键（LT/RT）�
 
 左模拟摇杆处理移动，右模拟摇杆控制摄像机。叉键（✕）确认操作，圆圈键（○）取消。方块键（□）和三角键（△）访问附加功能。
 
-L1/L2 和 R1/R2 扳机键提供辅助控制和快速操作。[在线玩 The Tooth Fae](https://playthetoothfae.com/games/tooth-fae) 亲身体验响应式手柄支持。
+L1/L2 和 R1/R2 扳机键提供辅助控制和快速操作。[在线玩 The Tooth Fae](https://playthetoothfae.com/) 亲身体验响应式手柄支持。
 
 ## 操作自定义
 

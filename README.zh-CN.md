@@ -16,7 +16,7 @@
 
 | 游戏 | 类型 | 平台 | 评分 | 立即游玩 |
 |------|-------|----------|--------|----------|
-| [牙仙](./games/tooth-fae/README.zh-CN.md) | 恐怖、潜行、心理 | 浏览器、Windows | 4.4/5 | [在线游玩](https://playthetoothfae.com/games/tooth-fae) |
+| [牙仙](./games/tooth-fae/README.zh-CN.md) | 恐怖、潜行、心理 | 浏览器、Windows | 4.4/5 | [在线游玩](https://playthetoothfae.com/) |
 | [恐惧我](./games/fear-me/README.zh-CN.md) | 恐怖、约会模拟、视觉小说 | 浏览器、Windows | 4.7/5 | [在线游玩](https://playthetoothfae.com/games/fearme) |
 
 ## 按类别浏览

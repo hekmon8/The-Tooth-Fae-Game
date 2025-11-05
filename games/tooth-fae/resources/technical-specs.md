@@ -287,4 +287,4 @@ Nim Language → SDL2 Framework → Platform Binary
 
 All tools and content created by developer Ev, with proper tool credits provided in-game and on the itch.io page.
 
-[Play The Tooth Fae online](https://playthetoothfae.com/games/tooth-fae) to experience this technically impressive game created in just 72 hours. For gameplay information, explore the [How to Play guide](../gameplay/how-to-play.md).
+[Play The Tooth Fae online](https://playthetoothfae.com/) to experience this technically impressive game created in just 72 hours. For gameplay information, explore the [How to Play guide](../gameplay/how-to-play.md).

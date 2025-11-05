@@ -22,9 +22,9 @@ Both games are completely free to play in your browser with no download required
 
 ## The Tooth Fae - Atmospheric Stealth Horror
 
-[![Play The Tooth Fae](https://img.shields.io/badge/🎮_Play_Now-Free_Online-purple?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae)
-[![Rating](https://img.shields.io/badge/Rating-4.4%2F5-yellow?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae)
-[![Genre](https://img.shields.io/badge/Genre-Horror_Stealth-red?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae#how-to-play)
+[![Play The Tooth Fae](https://img.shields.io/badge/🎮_Play_Now-Free_Online-purple?style=for-the-badge)](https://playthetoothfae.com/)
+[![Rating](https://img.shields.io/badge/Rating-4.4%2F5-yellow?style=for-the-badge)](https://playthetoothfae.com/)
+[![Genre](https://img.shields.io/badge/Genre-Horror_Stealth-red?style=for-the-badge)](https://playthetoothfae.com#how_to_play)
 
 ### Game Overview
 
@@ -86,7 +86,7 @@ The Tooth Fae succeeds as a **psychological horror game** because it makes YOU t
 The game demonstrates that effective horror doesn't require cutting-edge graphics or AAA production budgets. Ev's 72-hour game jam creation proves that **indie horror games** can deliver more genuine psychological impact than blockbuster titles through focused design, atmospheric consistency, and respect for player intelligence.
 
 **Quick Links**:
-- **[Play The Tooth Fae Free Online](https://playthetoothfae.com/games/tooth-fae)** - Start playing instantly
+- **[Play The Tooth Fae Free Online](https://playthetoothfae.com/)** - Start playing instantly
 - **[Complete Gameplay Guide](../../games/tooth-fae/gameplay/how-to-play.md)** - Master the four rules
 - **[Advanced Strategies](../../games/tooth-fae/guides/tips-strategies.md)** - Speed running and perfect runs
 
@@ -194,7 +194,7 @@ These **psychological horror games** prove that independent developers continue 
 
 **Ready to face your fears?**
 
-- **[Play The Tooth Fae](https://playthetoothfae.com/games/tooth-fae)** - Test your stealth skills against unforgiving rules
+- **[Play The Tooth Fae](https://playthetoothfae.com/)** - Test your stealth skills against unforgiving rules
 - **[Play Fear Me](https://playthetoothfae.com/games/fearme)** - Navigate dangerous romance with Jeff the Killer
 - **[Browse All Horror Games](../../README.md)** - Discover more indie horror experiences
 - **[Dating Sims Collection](../dating-sims/README.md)** - Explore romantic horror games

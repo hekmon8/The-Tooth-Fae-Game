@@ -11,9 +11,9 @@ The pixel art renaissance in independent gaming proves that artistic vision matt
 
 ## Featured Game: The Tooth Fae
 
-[![Play The Tooth Fae](https://img.shields.io/badge/🎮_Play_Now-Free_Online-purple?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae)
-[![Art Style](https://img.shields.io/badge/Art-Hand_Crafted_Pixels-blue?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae#game-features)
-[![Rating](https://img.shields.io/badge/Rating-4.4%2F5-yellow?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae)
+[![Play The Tooth Fae](https://img.shields.io/badge/🎮_Play_Now-Free_Online-purple?style=for-the-badge)](https://playthetoothfae.com/)
+[![Art Style](https://img.shields.io/badge/Art-Hand_Crafted_Pixels-blue?style=for-the-badge)](https://playthetoothfae.com#gameOverview)
+[![Rating](https://img.shields.io/badge/Rating-4.4%2F5-yellow?style=for-the-badge)](https://playthetoothfae.com/)
 
 ### Game Overview
 
@@ -21,7 +21,7 @@ The pixel art renaissance in independent gaming proves that artistic vision matt
 
 The game challenges players to collect teeth from sleeping creatures while maintaining absolute stealth under strict, unforgiving rules. One detection means instant failure, creating sustained psychological tension enhanced by the pixel art aesthetic's ability to suggest more than it shows. The visual design leverages pixel art's strengths - clarity of gameplay information combined with atmospheric ambiguity - to create horror that works through implication rather than explicit imagery.
 
-**[Experience hand-crafted pixel art horror](https://playthetoothfae.com/games/tooth-fae)** - Play instantly in your browser with no download required.
+**[Experience hand-crafted pixel art horror](https://playthetoothfae.com/)** - Play instantly in your browser with no download required.
 
 ---
 
@@ -151,7 +151,7 @@ Pixel art games offer unique value propositions that complement rather than comp
 
 ## Getting Started with The Tooth Fae
 
-Ready to experience masterful pixel art horror design? **[Play The Tooth Fae online free](https://playthetoothfae.com/games/tooth-fae)** instantly in your browser - no download required, no installation barriers, just immediate access to hand-crafted pixel art excellence.
+Ready to experience masterful pixel art horror design? **[Play The Tooth Fae online free](https://playthetoothfae.com/)** instantly in your browser - no download required, no installation barriers, just immediate access to hand-crafted pixel art excellence.
 
 ### Visual Appreciation Tips
 
@@ -187,7 +187,7 @@ Ready to experience masterful pixel art horror design? **[Play The Tooth Fae onl
 
 The Tooth Fae exemplifies why **pixel art games** continue thriving in 2025's independent gaming scene. Hand-crafted sprite work, thoughtful animation, and atmospheric color palettes create visually distinctive experiences that challenge assumptions about what "good graphics" means in game development.
 
-**[Start playing now](https://playthetoothfae.com/games/tooth-fae)** and experience psychological horror through the lens of expert pixel art design. Every sprite tells a story, every animation conveys emotion, every color choice builds atmosphere - this is pixel art at its finest, created by a solo developer in just 72 hours and delivered instantly through your web browser.
+**[Start playing now](https://playthetoothfae.com/)** and experience psychological horror through the lens of expert pixel art design. Every sprite tells a story, every animation conveys emotion, every color choice builds atmosphere - this is pixel art at its finest, created by a solo developer in just 72 hours and delivered instantly through your web browser.
 
 Appreciate the craft. Master the stealth. Fear the Fae.
 

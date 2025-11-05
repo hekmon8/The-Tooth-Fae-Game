@@ -2,9 +2,9 @@
 
 > 在这款氛围浓厚的潜行恐怖游戏中，从脆弱的生物身上收集牙齿。为 Ludum Dare 58 在 72 小时内打造。
 
-[![免费在线玩 The Tooth Fae](https://img.shields.io/badge/🎮_立即游玩-免费在线-purple?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae)
-[![评分](https://img.shields.io/badge/评分-4.4%2F5-yellow?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae)
-[![类型](https://img.shields.io/badge/类型-恐怖%20%7C%20潜行-red?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae#game-overview)
+[![免费在线玩 The Tooth Fae](https://img.shields.io/badge/🎮_立即游玩-免费在线-purple?style=for-the-badge)](https://playthetoothfae.com/)
+[![评分](https://img.shields.io/badge/评分-4.4%2F5-yellow?style=for-the-badge)](https://playthetoothfae.com/)
+[![类型](https://img.shields.io/badge/类型-恐怖%20%7C%20潜行-red?style=for-the-badge)](https://playthetoothfae.com#gameOverview)
 
 [English](./README.md) | [简体中文](./README.zh-CN.md)
 
@@ -31,7 +31,7 @@
 
 游戏通过独特的潜行系统、时间压力和持续的被发现威胁创造出强烈的心理紧张感。一次失误意味着立即失败——绝对的潜行不容妥协。
 
-**🎮 [免费在线玩 The Tooth Fae](https://playthetoothfae.com/games/tooth-fae)** - 无需下载，浏览器直接访问！
+**🎮 [免费在线玩 The Tooth Fae](https://playthetoothfae.com/)** - 无需下载，浏览器直接访问！
 
 ### 关键信息
 
@@ -52,7 +52,7 @@
 
 ### 快速开始
 
-1. **在线访问游戏**：[在 PlayTheToothFae.com 玩 The Tooth Fae](https://playthetoothfae.com/games/tooth-fae)
+1. **在线访问游戏**：[在 PlayTheToothFae.com 玩 The Tooth Fae](https://playthetoothfae.com/)
 2. **启用全屏模式**以获得最大沉浸感
 3. **打开声音** - 音频提示对游戏玩法至关重要
 4. **遵循四条基本规则**（见下文）
@@ -132,12 +132,12 @@
 ### 🌐 浏览器和下载选项
 
 灵活的平台访问：
-- **浏览器游玩**：[在 PlayTheToothFae.com 即时访问](https://playthetoothfae.com/games/tooth-fae) - 无需安装
+- **浏览器游玩**：[在 PlayTheToothFae.com 即时访问](https://playthetoothfae.com/) - 无需安装
 - **Windows 下载**：24 MB 可执行文件（在 itch.io 上提供）
 - **跨平台**：在任何现代网络浏览器上运行
 - **性能**：为流畅的 HTML5 游戏玩法进行了优化
 
-**🎮 [立即在 PlayTheToothFae.com 开始游玩](https://playthetoothfae.com/games/tooth-fae)**
+**🎮 [立即在 PlayTheToothFae.com 开始游玩](https://playthetoothfae.com/)**
 
 ---
 
@@ -246,11 +246,11 @@ The Tooth Fae 已被恐怖游戏 YouTuber 推荐：
 
 ### 游玩和讨论地点
 
-- **在线游玩**：[PlayTheToothFae.com](https://playthetoothfae.com/games/tooth-fae) - 粉丝托管的即时访问
+- **在线游玩**：[PlayTheToothFae.com](https://playthetoothfae.com/) - 粉丝托管的即时访问
 - **官方页面**：[itch.io](https://ev-dev.itch.io/fae) - 原始开发者页面
 - **Ludum Dare**：[竞赛作品](https://ldjam.com/events/ludum-dare/58/the-tooth-fae) - 评分和反馈
 
-**❓ [阅读常见问题](./resources/faq.zh-CN.md)** | **👥 [加入社区](./resources/community.md)**
+**❓ [阅读常见问题](./resources/faq.zh-CN.md)**
 
 ---
 
@@ -269,7 +269,6 @@ The Tooth Fae 已被恐怖游戏 YouTuber 推荐：
 ### 资源
 - [技术规格](./resources/technical-specs.zh-CN.md) - 开发细节
 - [常见问题](./resources/faq.zh-CN.md) - 常见问题解答
-- [社区资源](./resources/community.md) - 视频、评论、讨论
 
 ---
 
@@ -282,7 +281,7 @@ The Tooth Fae 已被恐怖游戏 YouTuber 推荐：
 
 ---
 
-**🎮 [免费在线玩 The Tooth Fae](https://playthetoothfae.com/games/tooth-fae)**
+**🎮 [免费在线玩 The Tooth Fae](https://playthetoothfae.com/)**
 
 *收集牙齿。遵循规则。绝不被看见。*
 

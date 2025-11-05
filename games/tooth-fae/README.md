@@ -2,9 +2,9 @@
 
 > Collect teeth from fragile creatures in this atmospheric stealth horror game. Created in 72 hours for Ludum Dare 58.
 
-[![Play The Tooth Fae Online Free](https://img.shields.io/badge/🎮_Play_Now-Free_Online-purple?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae)
-[![Rating](https://img.shields.io/badge/Rating-4.4%2F5-yellow?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae)
-[![Genre](https://img.shields.io/badge/Genre-Horror%20%7C%20Stealth-red?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae#game-overview)
+[![Play The Tooth Fae Online Free](https://img.shields.io/badge/🎮_Play_Now-Free_Online-purple?style=for-the-badge)](https://playthetoothfae.com/)
+[![Rating](https://img.shields.io/badge/Rating-4.4%2F5-yellow?style=for-the-badge)](https://playthetoothfae.com/)
+[![Genre](https://img.shields.io/badge/Genre-Horror%20%7C%20Stealth-red?style=for-the-badge)](https://playthetoothfae.com#gameOverview)
 
 [English](./README.md) | [简体中文](./README.zh-CN.md)
 
@@ -33,7 +33,7 @@
 
 The game creates intense psychological tension through its unique stealth system, time pressure, and the constant threat of detection. One mistake means instant failure - absolute stealth is non-negotiable.
 
-**🎮 [Play The Tooth Fae Online Free](https://playthetoothfae.com/games/tooth-fae)** - No download required, instant browser access!
+**🎮 [Play The Tooth Fae Online Free](https://playthetoothfae.com/)** - No download required, instant browser access!
 
 ### Key Information
 
@@ -54,7 +54,7 @@ The game creates intense psychological tension through its unique stealth system
 
 ### Quick Start
 
-1. **Visit the game online**: [Play The Tooth Fae on PlayTheToothFae.com](https://playthetoothfae.com/games/tooth-fae)
+1. **Visit the game online**: [Play The Tooth Fae on PlayTheToothFae.com](https://playthetoothfae.com/)
 2. **Enable fullscreen mode** for maximum immersion
 3. **Turn on sound** - audio cues are essential for gameplay
 4. **Follow the four cardinal rules** (see below)
@@ -134,12 +134,12 @@ Full support for various input methods:
 ### 🌐 Browser & Download Options
 
 Flexible platform access:
-- **Browser Play**: [Instant access on PlayTheToothFae.com](https://playthetoothfae.com/games/tooth-fae) - no installation needed
+- **Browser Play**: [Instant access on PlayTheToothFae.com](https://playthetoothfae.com/) - no installation needed
 - **Windows Download**: 24 MB executable (available on itch.io)
 - **Cross-platform**: Runs on any modern web browser
 - **Performance**: Optimized for smooth HTML5 gameplay
 
-**🎮 [Start Playing Now on PlayTheToothFae.com](https://playthetoothfae.com/games/tooth-fae)**
+**🎮 [Start Playing Now on PlayTheToothFae.com](https://playthetoothfae.com/)**
 
 ---
 
@@ -248,11 +248,11 @@ The Tooth Fae has been featured by horror gaming YouTubers:
 
 ### Where to Play & Discuss
 
-- **Play Online**: [PlayTheToothFae.com](https://playthetoothfae.com/games/tooth-fae) - Fan-hosted for instant access
+- **Play Online**: [PlayTheToothFae.com](https://playthetoothfae.com/) - Fan-hosted for instant access
 - **Official Page**: [itch.io](https://ev-dev.itch.io/fae) - Original developer page
 - **Ludum Dare**: [Competition Entry](https://ldjam.com/events/ludum-dare/58/the-tooth-fae) - Ratings and feedback
 
-**❓ [Read Frequently Asked Questions](./resources/faq.md)** | **👥 [Join the community](./resources/community.md)**
+**❓ [Read Frequently Asked Questions](./resources/faq.md)**
 
 ---
 
@@ -271,7 +271,6 @@ The Tooth Fae has been featured by horror gaming YouTubers:
 ### Resources
 - [Technical Specs](./resources/technical-specs.md) - Development details
 - [FAQ](./resources/faq.md) - Common questions answered
-- [Community Resources](./resources/community.md) - Videos, reviews, discussions
 
 ---
 
@@ -284,7 +283,7 @@ Enjoyed The Tooth Fae? Check out other indie horror games:
 
 ---
 
-**🎮 [Play The Tooth Fae Free Online](https://playthetoothfae.com/games/tooth-fae)**
+**🎮 [Play The Tooth Fae Free Online](https://playthetoothfae.com/)**
 
 *Collect teeth. Follow the rules. Never be seen.*
 

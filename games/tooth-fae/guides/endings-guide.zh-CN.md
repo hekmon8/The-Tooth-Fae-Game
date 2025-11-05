@@ -2,7 +2,7 @@
 
 ## 完美通关目标
 
-在 The Tooth Fae 中实现完美收集代表了终极掌握挑战。[在线玩 The Tooth Fae](https://playthetoothfae.com/games/tooth-fae) 追求测试你的技能、耐心和对牙齿收集艺术的奉献的完成目标。
+在 The Tooth Fae 中实现完美收集代表了终极掌握挑战。[在线玩 The Tooth Fae](https://playthetoothfae.com/) 追求测试你的技能、耐心和对牙齿收集艺术的奉献的完成目标。
 
 ## 完整收集目标
 
@@ -28,7 +28,7 @@
 
 ### 挑战类别
 
-**速通成就**：在特定时间限制内完成完整收集。击败你的个人最佳完成时间。与社区记录比较时间。[掌握速通技巧](https://playthetoothfae.com/games/tooth-fae#speedrun) 以获得最佳表现。
+**速通成就**：在特定时间限制内完成完整收集。击败你的个人最佳完成时间。与社区记录比较时间。[掌握速通技巧](https://playthetoothfae.com#tips_tricks) 以获得最佳表现。
 
 **潜行完美**：在整个收集过程中实现零接近失误。永远不要进入黄色警觉状态。在所有任务中保持绿色安全状态。这要求卓越的潜行纪律。
 
@@ -56,7 +56,7 @@
 
 ### 环境掌握
 
-学习所有位置的每个安全区和掩护位置。精确理解视线和被发现边界。[练习完美潜行](https://playthetoothfae.com/games/tooth-fae#stealth) 在尝试收集之前在每个区域。利用环境优势确保一致的成功。
+学习所有位置的每个安全区和掩护位置。精确理解视线和被发现边界。[练习完美潜行](https://playthetoothfae.com#tips_tricks) 在尝试收集之前在每个区域。利用环境优势确保一致的成功。
 
 ## 完美通关的心理准备
 

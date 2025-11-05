@@ -2,7 +2,7 @@
 
 ## Perfect Run Goals
 
-Achieving a perfect collection in The Tooth Fae represents the ultimate mastery challenge. [Play The Tooth Fae online](https://playthetoothfae.com/games/tooth-fae) to pursue completion goals that test your skills, patience, and dedication to the art of tooth collection.
+Achieving a perfect collection in The Tooth Fae represents the ultimate mastery challenge. [Play The Tooth Fae online](https://playthetoothfae.com/) to pursue completion goals that test your skills, patience, and dedication to the art of tooth collection.
 
 ## Complete Collection Objectives
 
@@ -28,7 +28,7 @@ Track your statistics across multiple runs. Record your best success rate percen
 
 ### Challenge Categories
 
-**Speed Run Achievements**: Complete full collection under specific time limits. Beat your personal best completion time. Compare times with community records. [Master speedrunning techniques](https://playthetoothfae.com/games/tooth-fae#speedrun) for optimal performance.
+**Speed Run Achievements**: Complete full collection under specific time limits. Beat your personal best completion time. Compare times with community records. [Master speedrunning techniques](https://playthetoothfae.com#tips_tricks) for optimal performance.
 
 **Stealth Perfection**: Achieve zero close calls during entire collection. Never enter yellow awareness states. Maintain green safety status throughout all missions. This demands exceptional stealth discipline.
 
@@ -56,7 +56,7 @@ Monitor target awareness indicators with constant vigilance. Back off immediatel
 
 ### Environmental Mastery
 
-Learn every safe zone and cover position in all locations. Understand sight lines and detection boundaries precisely. [Practice perfect stealth](https://playthetoothfae.com/games/tooth-fae#stealth) in each area before attempting collection. Exploitation of environmental advantages ensures consistent success.
+Learn every safe zone and cover position in all locations. Understand sight lines and detection boundaries precisely. [Practice perfect stealth](https://playthetoothfae.com#tips_tricks) in each area before attempting collection. Exploitation of environmental advantages ensures consistent success.
 
 ## Mental Preparation for Perfect Runs
 

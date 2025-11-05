@@ -2,7 +2,7 @@
 
 ## Core Gameplay Systems
 
-The Tooth Fae builds tension through interlocking systems that create a challenging stealth horror experience. [Master game mechanics](https://playthetoothfae.com/games/tooth-fae#mechanics) to become an efficient tooth collector while maintaining absolute stealth.
+The Tooth Fae builds tension through interlocking systems that create a challenging stealth horror experience. [Master game mechanics](https://playthetoothfae.com#mechanics) to become an efficient tooth collector while maintaining absolute stealth.
 
 ## Stealth System
 
@@ -22,7 +22,7 @@ Visual indicators show target awareness levels. Green states indicate safety, ye
 
 ### Preparation Phase Requirements
 
-[Play The Tooth Fae online](https://playthetoothfae.com/games/tooth-fae) to experience the unique extraction mechanics that define the gameplay. Before extracting any tooth, you must complete a preparation ritual. Skipping preparation results in target death and mission failure.
+[Play The Tooth Fae online](https://playthetoothfae.com/) to experience the unique extraction mechanics that define the gameplay. Before extracting any tooth, you must complete a preparation ritual. Skipping preparation results in target death and mission failure.
 
 The preparation process involves approaching the sleeping target, initiating the extraction sequence, and monitoring progress indicators. Visual feedback shows preparation completion percentage. Audio cues signal important preparation milestones.
 
@@ -36,7 +36,7 @@ The indicator is unmistakable once you learn to recognize it. A red visual effec
 
 Perfect timing balances preparation completion with target stress levels. Extract immediately when bleeding appears - hesitation increases failure risk. Rushed extraction before preparation kills the target. Delayed extraction after preparation causes stress-induced death.
 
-Experienced players develop muscle memory for extraction timing. The window for successful extraction is generous but not infinite. Practice builds the instinct for perfect timing. [Learn how to play](https://playthetoothfae.com/games/tooth-fae#how-to-play) to master this crucial mechanic.
+Experienced players develop muscle memory for extraction timing. The window for successful extraction is generous but not infinite. Practice builds the instinct for perfect timing. [Learn how to play](https://playthetoothfae.com#how_to_play) to master this crucial mechanic.
 
 ## Time Pressure System
 

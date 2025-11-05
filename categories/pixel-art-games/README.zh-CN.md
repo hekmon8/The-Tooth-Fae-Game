@@ -11,9 +11,9 @@
 
 ## 精选游戏:牙仙
 
-[![游玩牙仙](https://img.shields.io/badge/🎮_立即游玩-免费在线-紫色?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae)
-[![艺术风格](https://img.shields.io/badge/艺术-手工制作像素-蓝色?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae#game-features)
-[![评分](https://img.shields.io/badge/评分-4.4%2F5-黄色?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae)
+[![游玩牙仙](https://img.shields.io/badge/🎮_立即游玩-免费在线-紫色?style=for-the-badge)](https://playthetoothfae.com/)
+[![艺术风格](https://img.shields.io/badge/艺术-手工制作像素-蓝色?style=for-the-badge)](https://playthetoothfae.com#gameOverview)
+[![评分](https://img.shields.io/badge/评分-4.4%2F5-黄色?style=for-the-badge)](https://playthetoothfae.com/)
 
 ### 游戏概览
 
@@ -21,7 +21,7 @@
 
 游戏挑战玩家在严格、无情的规则下保持绝对隐蔽的同时,从沉睡的生物那里收集牙齿。一次被发现意味着即时失败,创造了由像素艺术美学暗示多于展示的能力增强的持续心理张力。视觉设计利用像素艺术的优势——玩法信息的清晰度与大气模糊性相结合——创造通过暗示而非明确图像工作的恐怖。
 
-**[体验手工制作的像素艺术恐怖](https://playthetoothfae.com/games/tooth-fae)** - 在浏览器中即时游玩,无需下载。
+**[体验手工制作的像素艺术恐怖](https://playthetoothfae.com/)** - 在浏览器中即时游玩,无需下载。
 
 ---
 
@@ -151,7 +151,7 @@
 
 ## 开始使用牙仙
 
-准备好体验精湛的像素艺术恐怖设计了吗? **[免费在线游玩牙仙](https://playthetoothfae.com/games/tooth-fae)**,在浏览器中即时——无需下载,无需安装障碍,只需即时访问手工制作的像素艺术卓越。
+准备好体验精湛的像素艺术恐怖设计了吗? **[免费在线游玩牙仙](https://playthetoothfae.com/)**,在浏览器中即时——无需下载,无需安装障碍,只需即时访问手工制作的像素艺术卓越。
 
 ### 视觉欣赏技巧
 
@@ -187,7 +187,7 @@
 
 牙仙例证了为什么**像素艺术游戏**在 2025 年的独立游戏场景中继续蓬勃发展。手工制作的精灵作品、深思熟虑的动画和大气调色板创造视觉独特的体验,挑战关于游戏开发中"好图形"意味着什么的假设。
 
-**[立即开始游玩](https://playthetoothfae.com/games/tooth-fae)**,通过专家像素艺术设计的镜头体验心理恐怖。每个精灵讲述一个故事,每个动画传达情感,每个颜色选择构建氛围——这是像素艺术的巅峰之作,由独立开发者在仅仅 72 小时内创建,并通过你的网络浏览器即时交付。
+**[立即开始游玩](https://playthetoothfae.com/)**,通过专家像素艺术设计的镜头体验心理恐怖。每个精灵讲述一个故事,每个动画传达情感,每个颜色选择构建氛围——这是像素艺术的巅峰之作,由独立开发者在仅仅 72 小时内创建,并通过你的网络浏览器即时交付。
 
 欣赏工艺。掌握潜行。恐惧仙女。
 

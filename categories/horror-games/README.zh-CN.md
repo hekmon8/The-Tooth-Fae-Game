@@ -22,9 +22,9 @@
 
 ## 牙仙 - 大气潜行恐怖游戏
 
-[![游玩牙仙](https://img.shields.io/badge/🎮_立即游玩-免费在线-紫色?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae)
-[![评分](https://img.shields.io/badge/评分-4.4%2F5-黄色?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae)
-[![类型](https://img.shields.io/badge/类型-恐怖潜行-红色?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae#how-to-play)
+[![游玩牙仙](https://img.shields.io/badge/🎮_立即游玩-免费在线-紫色?style=for-the-badge)](https://playthetoothfae.com/)
+[![评分](https://img.shields.io/badge/评分-4.4%2F5-黄色?style=for-the-badge)](https://playthetoothfae.com/)
+[![类型](https://img.shields.io/badge/类型-恐怖潜行-红色?style=for-the-badge)](https://playthetoothfae.com#how_to_play)
 
 ### 游戏概览
 
@@ -86,7 +86,7 @@
 游戏证明,有效的恐怖不需要尖端图形或 AAA 制作预算。Ev 的 72 小时游戏开发大赛作品证明,**独立恐怖游戏**通过专注设计、大气一致性和尊重玩家智慧,可以比大片游戏提供更真实的心理冲击。
 
 **快速链接**:
-- **[免费在线游玩牙仙](https://playthetoothfae.com/games/tooth-fae)** - 立即开始游玩
+- **[免费在线游玩牙仙](https://playthetoothfae.com/)** - 立即开始游玩
 - **[完整玩法指南](../../games/tooth-fae/gameplay/how-to-play.md)** - 掌握四条规则
 - **[高级策略](../../games/tooth-fae/guides/tips-strategies.md)** - 速通和完美运行
 
@@ -194,7 +194,7 @@
 
 **准备好面对你的恐惧了吗?**
 
-- **[游玩牙仙](https://playthetoothfae.com/games/tooth-fae)** - 在无情规则下测试你的潜行技能
+- **[游玩牙仙](https://playthetoothfae.com/)** - 在无情规则下测试你的潜行技能
 - **[游玩恐惧我](https://playthetoothfae.com/games/fearme)** - 与杰夫杀手导航危险浪漫
 - **[浏览所有恐怖游戏](../../README.md)** - 发现更多独立恐怖体验
 - **[约会模拟合集](../dating-sims/README.md)** - 探索浪漫恐怖游戏

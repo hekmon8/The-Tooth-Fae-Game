@@ -5,7 +5,7 @@
 <details>
 <summary>How can I play The Tooth Fae online for free?</summary>
 
-You can [play The Tooth Fae online free](https://playthetoothfae.com/games/tooth-fae) directly in your browser without downloading anything. The official game page is hosted on itch.io at [https://ev-dev.itch.io/fae](https://ev-dev.itch.io/fae), where you can click "Run game" to start playing immediately. A fan-hosted version is also available at [https://playthetoothfae.com/](https://playthetoothfae.com/) for convenient access.
+You can [play The Tooth Fae online free](https://playthetoothfae.com/) directly in your browser without downloading anything. The official game page is hosted on itch.io at [https://ev-dev.itch.io/fae](https://ev-dev.itch.io/fae), where you can click "Run game" to start playing immediately. A fan-hosted version is also available at [https://playthetoothfae.com/](https://playthetoothfae.com/) for convenient access.
 
 The browser version requires a modern web browser with HTML5 support. Chrome and Firefox are recommended for the best performance. Enable fullscreen mode and sound for the optimal horror experience.
 </details>
@@ -99,7 +99,7 @@ Progress may also not persist between browser sessions depending on your browser
 
 The average playthrough takes about 30 minutes, making it perfect for quick gaming sessions. However, completion time varies significantly based on skill level and play style. First-time players learning the mechanics may take 45-60 minutes. Experienced players can complete collections in 20-25 minutes. Speedrunners have achieved much faster times through route optimization.
 
-The game offers high replayability through different approaches, perfect run attempts, speedrun challenges, and mastery of advanced techniques. [Play The Tooth Fae online](https://playthetoothfae.com/games/tooth-fae) to discover your optimal completion time.
+The game offers high replayability through different approaches, perfect run attempts, speedrun challenges, and mastery of advanced techniques. [Play The Tooth Fae online](https://playthetoothfae.com/) to discover your optimal completion time.
 </details>
 
 <details>

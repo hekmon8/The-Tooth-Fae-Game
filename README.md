@@ -16,7 +16,7 @@ This collection supports both **English** and **Simplified Chinese** to reach a 
 
 | Game | Genre | Platform | Rating | Play Now |
 |------|-------|----------|--------|----------|
-| [The Tooth Fae](./games/tooth-fae/README.md) | Horror, Stealth, Psychological | Browser, Windows | 4.4/5 | [Play Online](https://playthetoothfae.com/games/tooth-fae) |
+| [The Tooth Fae](./games/tooth-fae/README.md) | Horror, Stealth, Psychological | Browser, Windows | 4.4/5 | [Play Online](https://playthetoothfae.com/) |
 | [Fear Me](./games/fear-me/README.md) | Horror, Dating Sim, Visual Novel | Browser, Windows | 4.7/5 | [Play Online](https://playthetoothfae.com/games/fearme) |
 
 ## Browse by Category

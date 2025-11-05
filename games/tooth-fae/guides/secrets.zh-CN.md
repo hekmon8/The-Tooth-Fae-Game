@@ -2,7 +2,7 @@
 
 ## 开发背景秘密
 
-The Tooth Fae 在短短 72 小时内为 Ludum Dare 58 这一负盛名的游戏开发竞赛创作。[在线玩 The Tooth Fae](https://playthetoothfae.com/games/tooth-fae) 体验快速游戏开发中的这一卓越成就。
+The Tooth Fae 在短短 72 小时内为 Ludum Dare 58 这一负盛名的游戏开发竞赛创作。[在线玩 The Tooth Fae](https://playthetoothfae.com/) 体验快速游戏开发中的这一卓越成就。
 
 ### 游戏竞赛创作故事
 
@@ -26,7 +26,7 @@ The Tooth Fae 在短短 72 小时内为 Ludum Dare 58 这一负盛名的游戏�
 
 ### 环境彩蛋
 
-仔细的观察者注意到像素艺术中的氛围细节。背景元素讲述关于世界及其居民的故事。[发现隐藏细节](https://playthetoothfae.com/games/tooth-fae#secrets) 散布在不同位置。
+仔细的观察者注意到像素艺术中的氛围细节。背景元素讲述关于世界及其居民的故事。[发现隐藏细节](https://playthetoothfae.com/) 散布在不同位置。
 
 城镇界面包含微妙的动画和细节。收集显示反映你的进度。视觉华丽奖励成功的拔牙。这些小触动增强了沉浸感，而没有明确的确认。
 

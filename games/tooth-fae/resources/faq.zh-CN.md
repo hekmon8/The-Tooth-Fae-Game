@@ -5,7 +5,7 @@
 <details>
 <summary>如何免费在线玩 The Tooth Fae？</summary>
 
-你可以[免费在线玩 The Tooth Fae](https://playthetoothfae.com/games/tooth-fae) 直接在浏览器中，无需下载任何内容。官方游戏页面托管在 itch.io 上，地址是 [https://ev-dev.itch.io/fae](https://ev-dev.itch.io/fae)，你可以点击"运行游戏"立即开始游玩。粉丝托管版本也可在 [https://playthetoothfae.com/](https://playthetoothfae.com/) 上获得，以便于访问。
+你可以[免费在线玩 The Tooth Fae](https://playthetoothfae.com/) 直接在浏览器中，无需下载任何内容。官方游戏页面托管在 itch.io 上，地址是 [https://ev-dev.itch.io/fae](https://ev-dev.itch.io/fae)，你可以点击"运行游戏"立即开始游玩。粉丝托管版本也可在 [https://playthetoothfae.com/](https://playthetoothfae.com/) 上获得，以便于访问。
 
 浏览器版本需要具有 HTML5 支持的现代网络浏览器。建议使用 Chrome 和 Firefox 以获得最佳性能。启用全屏模式和声音以获得最佳恐怖体验。
 </details>
@@ -99,7 +99,7 @@ The Tooth Fae 支持 Xbox 手柄、PlayStation 手柄、通用游戏手柄和摇
 
 平均游玩时间约为 30 分钟，非常适合快速游戏会话。然而，完成时间因技能水平和游玩风格而异很大。学习机制的首次玩家可能需要 45-60 分钟。经验丰富的玩家可以在 20-25 分钟内完成收集。速通者通过路线优化实现了更快的时间。
 
-游戏通过不同的方法、完美通关尝试、速通挑战和掌握高级技巧提供高度可重玩性。[在线玩 The Tooth Fae](https://playthetoothfae.com/games/tooth-fae) 发现你的最佳完成时间。
+游戏通过不同的方法、完美通关尝试、速通挑战和掌握高级技巧提供高度可重玩性。[在线玩 The Tooth Fae](https://playthetoothfae.com/) 发现你的最佳完成时间。
 </details>
 
 <details>

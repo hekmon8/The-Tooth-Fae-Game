@@ -2,7 +2,7 @@
 
 ## Development Background Secrets
 
-The Tooth Fae was created in just 72 hours for Ludum Dare 58, a prestigious game development competition. [Play The Tooth Fae online](https://playthetoothfae.com/games/tooth-fae) to experience this remarkable achievement in rapid game development.
+The Tooth Fae was created in just 72 hours for Ludum Dare 58, a prestigious game development competition. [Play The Tooth Fae online](https://playthetoothfae.com/) to experience this remarkable achievement in rapid game development.
 
 ### Game Jam Creation Story
 
@@ -26,7 +26,7 @@ Detection mechanics include proximity-based awareness speed. Targets notice you 
 
 ### Environmental Easter Eggs
 
-Careful observers notice atmospheric details in the pixel art. Background elements tell stories about the world and its inhabitants. [Discover hidden details](https://playthetoothfae.com/games/tooth-fae#secrets) scattered throughout different locations.
+Careful observers notice atmospheric details in the pixel art. Background elements tell stories about the world and its inhabitants. [Discover hidden details](https://playthetoothfae.com/) scattered throughout different locations.
 
 The town screen contains subtle animations and details. Collection display changes reflect your progress. Visual flourishes reward successful extractions. These small touches enhance immersion without explicit acknowledgment.
 

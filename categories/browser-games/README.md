@@ -24,9 +24,9 @@ Both games demonstrate the capabilities of modern **HTML5 games 2025**, running 
 
 ## The Tooth Fae - Browser Version
 
-[![Play The Tooth Fae](https://img.shields.io/badge/🎮_Play_Now-Free_Online-purple?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae)
-[![Technology](https://img.shields.io/badge/Tech-HTML5_Browser-blue?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae#technical-information)
-[![Rating](https://img.shields.io/badge/Rating-4.4%2F5-yellow?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae)
+[![Play The Tooth Fae](https://img.shields.io/badge/🎮_Play_Now-Free_Online-purple?style=for-the-badge)](https://playthetoothfae.com/)
+[![Technology](https://img.shields.io/badge/Tech-HTML5_Browser-blue?style=for-the-badge)](https://playthetoothfae.com#gameOverview)
+[![Rating](https://img.shields.io/badge/Rating-4.4%2F5-yellow?style=for-the-badge)](https://playthetoothfae.com/)
 
 ### Browser Technology and Performance
 
@@ -58,7 +58,7 @@ The Tooth Fae's browser version maintains consistent performance across hardware
 
 ### Instant Access Advantages
 
-**No Installation Barriers**: Simply visit **[PlayTheToothFae.com](https://playthetoothfae.com/games/tooth-fae)** and click play - the game loads directly in your browser within seconds. No download wait times, no installation procedures, no storage space consumed on your device.
+**No Installation Barriers**: Simply visit **[PlayTheToothFae.com](https://playthetoothfae.com/)** and click play - the game loads directly in your browser within seconds. No download wait times, no installation procedures, no storage space consumed on your device.
 
 **Cross-Platform Convenience**: The browser version runs identically on Windows, macOS, Linux, and Chrome OS. This universal compatibility eliminates platform restrictions, allowing players to enjoy the game regardless of their operating system.
 
@@ -66,7 +66,7 @@ The Tooth Fae's browser version maintains consistent performance across hardware
 
 **Trial Without Commitment**: Experience the complete game instantly without committing storage space or installation time. This frictionless access makes The Tooth Fae perfect for casual players exploring new games and hardcore gamers seeking quick horror thrills.
 
-**[Start playing The Tooth Fae in your browser now](https://playthetoothfae.com/games/tooth-fae)** - No download, no installation, just instant horror stealth gameplay.
+**[Start playing The Tooth Fae in your browser now](https://playthetoothfae.com/)** - No download, no installation, just instant horror stealth gameplay.
 
 ---
 
@@ -194,7 +194,7 @@ Modern **free browser games** provide compelling benefits that downloadable alte
 Experience the convenience and quality of modern **browser games** through our featured titles:
 
 ### The Tooth Fae
-**[Play The Tooth Fae Free Online](https://playthetoothfae.com/games/tooth-fae)**
+**[Play The Tooth Fae Free Online](https://playthetoothfae.com/)**
 
 Atmospheric pixel art horror with:
 - 30-minute gameplay sessions perfect for quick horror thrills
@@ -242,7 +242,7 @@ The **browser games 2025** landscape demonstrates remarkable maturation. Technol
 
 **Start exploring browser gaming today:**
 
-- **[Play The Tooth Fae](https://playthetoothfae.com/games/tooth-fae)** - Instant horror stealth gameplay
+- **[Play The Tooth Fae](https://playthetoothfae.com/)** - Instant horror stealth gameplay
 - **[Play Fear Me](https://playthetoothfae.com/games/fearme)** - Complete visual novel experience
 - **[Browse All Games](../../README.md)** - Discover more instant-play titles
 

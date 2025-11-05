@@ -22,7 +22,7 @@ jobs:
       - name: Check Markdown Structure
         run: |
           echo "Checking H1 uniqueness..."
-          find . -name "*.md" -not -path "./.git/*" -exec sh -c '
+          find . -name "*.md" -not -path "./.git/*" -not -path "./test-reports/*" -exec sh -c '
             h1_count=$(grep -c "^# " "$1" || true)
             if [ "$h1_count" -gt 1 ]; then
               echo "❌ Multiple H1 tags in: $1"

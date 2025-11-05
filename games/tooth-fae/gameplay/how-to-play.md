@@ -2,7 +2,7 @@
 
 ## Quick Start Guide
 
-[Play The Tooth Fae online free](https://playthetoothfae.com/games/tooth-fae) directly in your browser or download the Windows version from itch.io. The game puts you in the role of a mysterious tooth-collecting entity navigating homes to extract teeth from sleeping creatures while following strict survival rules.
+[Play The Tooth Fae online free](https://playthetoothfae.com/) directly in your browser or download the Windows version from itch.io. The game puts you in the role of a mysterious tooth-collecting entity navigating homes to extract teeth from sleeping creatures while following strict survival rules.
 
 For the optimal horror experience, enable fullscreen mode and sound. Headphones are recommended for better atmospheric immersion. Safari users should disable low power mode to prevent performance throttling.
 
@@ -36,7 +36,7 @@ The collection process follows a structured sequence that you'll master with pra
 
 ## Controls and Input
 
-The Tooth Fae supports multiple control schemes for accessibility. [Learn controls](https://playthetoothfae.com/games/tooth-fae#controls) for keyboard, mouse, Xbox controllers, PlayStation controllers, and generic gamepads. All controller types are fully supported with customizable configurations available in game settings.
+The Tooth Fae supports multiple control schemes for accessibility. [Learn controls](https://playthetoothfae.com#how_to_play) for keyboard, mouse, Xbox controllers, PlayStation controllers, and generic gamepads. All controller types are fully supported with customizable configurations available in game settings.
 
 Movement uses standard WASD or arrow keys, with mouse support for interaction and selection providing precise control for careful navigation. Controls are fully configurable, allowing you to adjust to your preferred layout.
 
@@ -60,4 +60,4 @@ Avoid the back button on the town screen at all costs. This will erase all your 
 
 **Playing Without Sound**: Missing crucial audio cues makes gameplay significantly harder and causes you to miss important warnings. Sound is not optional for optimal play.
 
-The average playthrough takes about 30 minutes, making it perfect for quick gaming sessions. The game offers high replayability with multiple strategies and approaches. [Start playing now](https://playthetoothfae.com/games/tooth-fae) to experience this unique horror simulation that challenges both your stealth skills and nerve.
+The average playthrough takes about 30 minutes, making it perfect for quick gaming sessions. The game offers high replayability with multiple strategies and approaches. [Start playing now](https://playthetoothfae.com/) to experience this unique horror simulation that challenges both your stealth skills and nerve.

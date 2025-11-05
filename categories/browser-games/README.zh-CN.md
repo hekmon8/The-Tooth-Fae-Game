@@ -24,9 +24,9 @@
 
 ## 牙仙 - 浏览器版本
 
-[![游玩牙仙](https://img.shields.io/badge/🎮_立即游玩-免费在线-紫色?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae)
-[![技术](https://img.shields.io/badge/技术-HTML5_浏览器-蓝色?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae#technical-information)
-[![评分](https://img.shields.io/badge/评分-4.4%2F5-黄色?style=for-the-badge)](https://playthetoothfae.com/games/tooth-fae)
+[![游玩牙仙](https://img.shields.io/badge/🎮_立即游玩-免费在线-紫色?style=for-the-badge)](https://playthetoothfae.com/)
+[![技术](https://img.shields.io/badge/技术-HTML5_浏览器-蓝色?style=for-the-badge)](https://playthetoothfae.com#gameOverview)
+[![评分](https://img.shields.io/badge/评分-4.4%2F5-黄色?style=for-the-badge)](https://playthetoothfae.com/)
 
 ### 浏览器技术和性能
 
@@ -58,7 +58,7 @@
 
 ### 即时访问优势
 
-**无安装障碍**:只需访问 **[PlayTheToothFae.com](https://playthetoothfae.com/games/tooth-fae)** 并点击游玩——游戏在几秒钟内直接在浏览器中加载。无需下载等待时间,无需安装程序,设备上不消耗存储空间。
+**无安装障碍**:只需访问 **[PlayTheToothFae.com](https://playthetoothfae.com/)** 并点击游玩——游戏在几秒钟内直接在浏览器中加载。无需下载等待时间,无需安装程序,设备上不消耗存储空间。
 
 **跨平台便利性**:浏览器版本在 Windows、macOS、Linux 和 Chrome OS 上运行相同。这种通用兼容性消除了平台限制,允许玩家无论其操作系统如何都能享受游戏。
 
@@ -66,7 +66,7 @@
 
 **无承诺试用**:无需承诺存储空间或安装时间即可即时体验完整游戏。这种无摩擦访问使牙仙非常适合探索新游戏的休闲玩家和寻求快速恐怖刺激的铁杆玩家。
 
-**[立即在浏览器中开始游玩牙仙](https://playthetoothfae.com/games/tooth-fae)** - 无需下载,无需安装,只需即时恐怖潜行玩法。
+**[立即在浏览器中开始游玩牙仙](https://playthetoothfae.com/)** - 无需下载,无需安装,只需即时恐怖潜行玩法。
 
 ---
 
@@ -194,7 +194,7 @@
 通过我们的精选游戏体验现代**浏览器游戏**的便利性和质量:
 
 ### 牙仙
-**[免费在线游玩牙仙](https://playthetoothfae.com/games/tooth-fae)**
+**[免费在线游玩牙仙](https://playthetoothfae.com/)**
 
 大气像素艺术恐怖,具有:
 - 30 分钟游玩会话,非常适合快速恐怖刺激
@@ -242,7 +242,7 @@
 
 **今天开始探索浏览器游戏:**
 
-- **[游玩牙仙](https://playthetoothfae.com/games/tooth-fae)** - 即时恐怖潜行玩法
+- **[游玩牙仙](https://playthetoothfae.com/)** - 即时恐怖潜行玩法
 - **[游玩恐惧我](https://playthetoothfae.com/games/fearme)** - 完整视觉小说体验
 - **[浏览所有游戏](../../README.md)** - 发现更多即时游玩游戏
 

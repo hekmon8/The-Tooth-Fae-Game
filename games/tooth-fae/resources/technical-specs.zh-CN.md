@@ -287,4 +287,4 @@ Nim 语言 → SDL2 框架 → 平台二进制
 
 所有工具和内容由开发者 Ev 创作，在游戏内和 itch.io 页面上提供了适当的工具致谢。
 
-[在线玩 The Tooth Fae](https://playthetoothfae.com/games/tooth-fae) 体验这款在短短 72 小时内创作的技术令人印象深刻的游戏。有关游戏玩法信息，请查看[如何游玩指南](../gameplay/how-to-play.zh-CN.md)。
+[在线玩 The Tooth Fae](https://playthetoothfae.com/) 体验这款在短短 72 小时内创作的技术令人印象深刻的游戏。有关游戏玩法信息，请查看[如何游玩指南](../gameplay/how-to-play.zh-CN.md)。

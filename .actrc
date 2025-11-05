@@ -1,0 +1,9 @@
+# act 配置文件
+# 使用优化的 Ubuntu 镜像以加速运行
+-P ubuntu-latest=catthehacker/ubuntu:act-latest
+
+# 指定容器架构（适配 Apple Silicon）
+--container-architecture linux/amd64
+
+# 详细输出（可选，方便调试）
+# --verbose

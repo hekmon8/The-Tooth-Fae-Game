@@ -102,7 +102,7 @@ With 34,000+ words of content, Fear Me provides 3-5 hours of gameplay for a sing
 
 What makes Fear Me particularly innovative is how it weaves dating simulation gameplay with psychological horror elements. The romance serves as your guard-lowering mechanism—you become emotionally invested in the relationship, which makes the horror elements land with greater impact when they emerge. This genre fusion feels fresh in 2025's gaming landscape, where most horror games avoid romance entirely.
 
-The game's multiple [character routes](../games/fear-me/guides/character-routes.md) provide variety beyond simple story branches. Each romantic path reveals different aspects of the game's darker themes, rewarding replays with genuinely new perspectives rather than minor variations.
+The game's multiple romantic paths provide variety beyond simple story branches, revealing different aspects of the game's darker themes and rewarding replays with genuinely new perspectives rather than minor variations.
 
 ### Technical Implementation
 
@@ -123,7 +123,6 @@ Fear Me demonstrates that complex, content-rich narrative games thrive in browse
 **Play Now**: [Fear Me Main Page](../games/fear-me/README.md)
 **Understand Mechanics**: [Gameplay Systems Guide](../games/fear-me/gameplay/mechanics.md)
 **Explore Endings**: [Complete Endings Guide](../games/fear-me/guides/endings-guide.md)
-**Navigate Romance**: [Character Routes Reference](../games/fear-me/guides/character-routes.md)
 
 ## The Advantages of Browser Gaming
 

@@ -2,7 +2,7 @@
 
 ## Supported Input Devices
 
-The Tooth Fae offers comprehensive input support to ensure accessibility for all players. [Master game controls](https://playthetoothfae.com/games/tooth-fae#controls) using your preferred method - whether keyboard and mouse, gamepad, or controller.
+The Tooth Fae offers comprehensive input support to ensure accessibility for all players. [Master game controls](https://playthetoothfae.com#how_to_play) using your preferred method - whether keyboard and mouse, gamepad, or controller.
 
 ### Full Input Compatibility
 
@@ -40,7 +40,7 @@ X and Y buttons provide quick access to inventory and game functions. Triggers (
 
 Left analog stick handles movement, right analog stick controls camera. Cross button (✕) confirms actions, Circle button (○) cancels. Square (□) and Triangle (△) buttons access additional functions.
 
-L1/L2 and R1/R2 triggers provide secondary controls and quick actions. [Play The Tooth Fae online](https://playthetoothfae.com/games/tooth-fae) to experience the responsive controller support firsthand.
+L1/L2 and R1/R2 triggers provide secondary controls and quick actions. [Play The Tooth Fae online](https://playthetoothfae.com/) to experience the responsive controller support firsthand.
 
 ## Control Customization
 

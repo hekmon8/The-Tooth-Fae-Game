@@ -4,7 +4,7 @@
 
 ### Starting Your Collection Journey
 
-[Play The Tooth Fae online free](https://playthetoothfae.com/games/tooth-fae) and begin with patience and observation. Don't rush your first playthrough - take time to learn the mechanics thoroughly. Failures are part of the learning process, and each attempt teaches valuable lessons about timing, stealth, and target behavior.
+[Play The Tooth Fae online free](https://playthetoothfae.com/) and begin with patience and observation. Don't rush your first playthrough - take time to learn the mechanics thoroughly. Failures are part of the learning process, and each attempt teaches valuable lessons about timing, stealth, and target behavior.
 
 Master the four cardinal rules before attempting advanced techniques. Understand that preparation is always required, recognize the bleeding indicator instantly, manage time efficiently without panic, and maintain absolute stealth at all costs.
 
@@ -26,7 +26,7 @@ Move in short, controlled bursts rather than continuous motion. Use the stop-and
 
 Learn the exact preparation duration through repeated practice. Develop muscle memory for recognizing the bleeding indicator instantly. Execute extraction immediately when the signal appears - hesitation increases risk. Practice consistency to eliminate timing errors.
 
-Target selection strategy builds skill progressively. [Learn game strategies](https://playthetoothfae.com/games/tooth-fae#strategies) by starting with the easiest targets to build confidence. Identify difficulty indicators like patrol complexity and awareness sensitivity. Save harder targets for when you've mastered fundamentals.
+Target selection strategy builds skill progressively. [Learn game strategies](https://playthetoothfae.com#tips_tricks) by starting with the easiest targets to build confidence. Identify difficulty indicators like patrol complexity and awareness sensitivity. Save harder targets for when you've mastered fundamentals.
 
 ### Risk Assessment and Management
 
@@ -46,7 +46,7 @@ Preparation minimization requires precise timing knowledge. Learn the exact mini
 
 Zero failure goals demand master-level skill across all mechanics. Achieve no failed extractions throughout the entire collection. Avoid all detection incidents by maintaining perfect stealth. Complete all targets efficiently without wasted time. This represents the ultimate mastery challenge.
 
-Achievement hunting extends gameplay beyond basic completion. Try for full collection completion, speed run records, perfect stealth runs with zero close calls, and self-imposed challenge runs with additional restrictions. [Master perfect runs](https://playthetoothfae.com/games/tooth-fae#perfect-runs) through dedicated practice.
+Achievement hunting extends gameplay beyond basic completion. Try for full collection completion, speed run records, perfect stealth runs with zero close calls, and self-imposed challenge runs with additional restrictions. [Master perfect runs](https://playthetoothfae.com#tips_tricks) through dedicated practice.
 
 ### Pattern Recognition Mastery
 

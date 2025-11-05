@@ -93,7 +93,6 @@ The dating simulation elements provide moments of levity and normalcy that break
 Enhance your Fear Me experience with these guides:
 - **[Fear Me Main Page](../games/fear-me/README.md)**: Game overview and instant play access
 - **[Gameplay Mechanics](../games/fear-me/gameplay/mechanics.md)**: Understanding the choice system and relationship mechanics
-- **[Character Routes Guide](../games/fear-me/guides/character-routes.md)**: Navigate the complex relationship paths and outcomes
 
 ## Overcoming Horror Game Anxiety
 
