@@ -1,55 +1,122 @@
-# The Tooth Fae Game Documentation
+# Awesome Indie Games Collection
 
-> Comprehensive documentation for The Tooth Fae - A psychological horror game
+> A curated collection of detailed documentation for exceptional indie games
 
-## Quick Links
+[English](./README.md) | [简体中文](./README.zh-CN.md)
 
-- **Official Game Page**: [https://ev-dev.itch.io/fae](https://ev-dev.itch.io/fae)
-- **Fan-hosted Website**: [https://playthetoothfae.com/](https://playthetoothfae.com/)
-- **Ludum Dare Submission**: [https://ldjam.com/events/ludum-dare/58/the-tooth-fae](https://ldjam.com/events/ludum-dare/58/the-tooth-fae)
+## About This Collection
 
-## About The Tooth Fae
+**Awesome Indie Games Collection** is a comprehensive documentation hub dedicated to showcasing outstanding independent games with in-depth guides, technical specifications, and community resources. Whether you're a casual player looking for your next gaming adventure or a dedicated enthusiast seeking detailed gameplay strategies, this collection provides thoroughly researched documentation for handpicked indie titles.
 
-The Tooth Fae is an atmospheric psychological horror game where you play as a mysterious entity collecting teeth from fragile creatures. Created by developer **Ev** in just 72 hours for Ludum Dare 58's "Collector" theme.
+Our mission is to celebrate indie game developers by creating high-quality, bilingual documentation that helps players fully appreciate these creative works. Each game entry includes complete gameplay guides, technical details, community resources, and strategic tips to enhance your gaming experience.
 
-### Key Information
+This collection supports both **English** and **Simplified Chinese** to reach a global audience of indie game enthusiasts.
 
-- **Developer**: Ev
-- **Release Date**: October 7, 2025
-- **Rating**: 4.4/5 stars (8 ratings)
-- **Genre**: Simulation, Horror, Psychological Horror
-- **Platforms**: HTML5 (Browser), Windows
-- **Session Length**: ~30 minutes
-- **Language**: English
+## Featured Games
 
-## Game Description
+| Game | Genre | Platform | Rating | Play Now |
+|------|-------|----------|--------|----------|
+| [The Tooth Fae](./games/tooth-fae/README.md) | Horror, Stealth, Psychological | Browser, Windows | 4.4/5 | [Play Online](https://playthetoothfae.com/games/tooth-fae) |
+| [Fear Me](./games/fear-me/README.md) | Horror, Dating Sim, Visual Novel | Browser, Windows | 4.7/5 | [Play Online](https://playthetoothfae.com/games/fearme) |
 
-*"It's selfish of these things to hoard all their lovelies, isn't it? No matter, we can free them and keep them. Remember: YOU MUST NEVER BE SEEN."*
+## Browse by Category
 
-The Tooth Fae combines stealth mechanics with atmospheric pixel art to create an unsettling experience where players must carefully extract teeth from fragile beings while following specific rules to ensure their survival.
+Discover games organized by themes and gameplay styles:
 
-## Documentation Contents
+### 🎃 [Horror Games](./categories/horror-games/README.md)
+Atmospheric psychological horror experiences that challenge your nerves and wit. From stealth-based thrillers to narrative-driven terror, explore games that masterfully blend tension, atmosphere, and storytelling.
 
-- [Game Overview](./GAME_OVERVIEW.md) - Detailed game information and mechanics
-- [How to Play](./HOW_TO_PLAY.md) - Complete gameplay guide
-- [Technical Specifications](./TECHNICAL_SPECS.md) - Development tools and technical details
-- [Tips & Strategies](./TIPS_STRATEGIES.md) - Advanced gameplay techniques
-- [Community Resources](./COMMUNITY_RESOURCES.md) - Videos, reviews, and external links
+### 💕 [Dating Simulators](./categories/dating-sims/README.md)
+Romance visual novels with compelling narratives and meaningful choices. Experience heartwarming (and sometimes heart-wrenching) stories where your decisions shape relationships and outcomes.
 
-## Credits
+### 🖼️ [Pixel Art Games](./categories/pixel-art-games/README.md)
+Retro-style indie games featuring stunning pixel art aesthetics. Celebrate the timeless beauty of pixel graphics in modern game design, from nostalgic throwbacks to innovative artistic expressions.
 
-- **Art, Programming, Music, and Sound Effects**: Ev
-- **Game Engine**: Custom engine written in [Nim](https://nim-lang.org/) on top of [SDL2](https://www.libsdl.org/)
-- **Music Production**: [Ableton Live](https://www.ableton.com/)
-- **Sprite Creation**: [Asesprite](https://www.aseprite.org/)
-- **Additional Tools**: Audacity
+### 🌐 [Browser Games](./categories/browser-games/README.md)
+Play instantly without downloads - HTML5 games accessible anywhere. Perfect for quick gaming sessions or discovering new titles without commitment.
 
-## License & Attribution
+## Latest Guides
 
-The Tooth Fae is created by Ev. This documentation is a fan-made resource to help players discover and enjoy the game. All game content, art, and music are property of the original creator.
+Stay updated with our newest strategy guides and recommendations:
 
-For official downloads and support, please visit: [https://ev-dev.itch.io/fae](https://ev-dev.itch.io/fae)
+### [How to Choose Your First Horror Game](./guides/choosing-your-first-horror-game.md)
+Navigate the world of indie horror games with confidence. This comprehensive guide helps newcomers understand different horror subgenres, intensity levels, and gameplay mechanics to find the perfect starting point for their horror gaming journey.
+
+### [Best Free Browser Games 2025](./guides/best-free-browser-games-2025.md)
+Discover the top free-to-play browser games available right now. From quick casual experiences to deep strategic gameplay, this curated list showcases the best HTML5 games you can play instantly without downloads or installations.
+
+### [Indie Game Recommendations](./guides/indie-game-recommendations.md)
+Expert recommendations across multiple genres and platforms. Whether you're seeking hidden gems, award-winning titles, or underappreciated masterpieces, this guide helps you discover your next favorite indie game.
+
+## Quick Navigation
+
+- **Browse by Category**: Explore games organized by genre, platform, and gameplay style
+- **Game Documentation**: Access complete guides for each featured title including:
+  - Gameplay mechanics and controls
+  - Strategy guides and tips
+  - Technical specifications
+  - Community resources and reviews
+- **Strategy Guides**: In-depth analysis and techniques for mastering specific games
+- **Community Resources**: External links, video content, developer interviews, and fan communities
+
+## Documentation Structure
+
+Each game in our collection includes:
+
+- **README**: Overview, quick start, and key information
+- **Gameplay Guide**: Detailed mechanics, controls, and objectives
+- **Strategy Tips**: Advanced techniques and expert advice
+- **Technical Specs**: System requirements, development tools, and platform details
+- **Community Resources**: Videos, reviews, social media, and official links
+
+All documentation is available in both English and Simplified Chinese (简体中文).
+
+## Contributing
+
+We welcome contributions from the indie gaming community! Whether you want to:
+
+- Add documentation for a new indie game
+- Improve existing guides with additional strategies
+- Translate content to additional languages
+- Fix errors or update outdated information
+
+Please read our [Contributing Guidelines](./CONTRIBUTING.md) to get started. Quality documentation helps indie games reach wider audiences and supports independent developers.
+
+## Game Selection Criteria
+
+Games featured in this collection meet the following standards:
+
+- **Quality**: Well-crafted gameplay, unique mechanics, or exceptional artistic vision
+- **Accessibility**: Available on modern platforms (browser, Windows, macOS, Linux)
+- **Documentation-Friendly**: Complex enough to benefit from detailed guides
+- **Community Interest**: Demonstrated player engagement and positive reception
+- **Indie Spirit**: Created by independent developers or small studios
+
+## License and Attribution
+
+This documentation project is a community-driven resource created by indie game enthusiasts. All game content, assets, and intellectual property belong to their respective creators and developers.
+
+Documentation content in this repository is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), unless otherwise specified. When using or redistributing this documentation, please provide appropriate attribution.
+
+For official game downloads, support, and updates, always visit the developers' official pages linked in each game's documentation.
+
+## Acknowledgments
+
+Special thanks to:
+
+- All indie game developers who create amazing experiences
+- The community contributors who help maintain and expand this documentation
+- Players who share their strategies and insights
+- Translation volunteers who make this collection accessible worldwide
+
+## Stay Connected
+
+- **Website**: [PlayTheToothFae.com](https://playthetoothfae.com) - Play featured games online
+- **GitHub Issues**: Report documentation errors or suggest improvements
+- **Game Developers**: Listed in individual game documentation pages
 
 ---
 
-*Documentation maintained by the fan community. Last updated: October 2025*
+**Repository Statistics**: 2 Games • 4 Categories • 6 Guides (3 English + 3 Chinese) • Growing Collection
+
+*Last Updated: November 2025 • Maintained by the Indie Gaming Community*
